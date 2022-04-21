@@ -14,11 +14,11 @@ In this project, I am going to focus on the following learning objectives:
 9.	Compile and fit unsupervised machine learning models such as PCA and K-Means to training data
 
 ### Project Structure
--__Task 1:__ Understand the problem statement and business case 
--__Task 2:__ Import libraries and datasets 
--__Task 3:__ Visualize and explore datasets 
--__Task 4:__ Understand the theory and intuition behind k-means clustering machine learning algorithm 
--__Task 5:__ Learn how to obtain the optimal number of clusters using the elbow method 
--__Task 6:__ Use Scikit-Learn library to find the optimal number of clusters using elbow method 
--__Task 7:__ Apply k-means using Scikit-Learn to perform customer segmentation 
--__Task 8:__ Apply Principal Component Analysis (PCA) technique to perform dimensionality reduction and data visualization 
+- __Task 1:__ Understand the problem statement and business case 
+- __Task 2:__ Import libraries and datasets 
+- __Task 3:__ Visualize and explore datasets 
+- __Task 4:__ Understand the theory and intuition behind k-means clustering machine learning algorithm 
+- __Task 5:__ Learn how to obtain the optimal number of clusters using the elbow method 
+- __Task 6:__ Use Scikit-Learn library to find the optimal number of clusters using elbow method 
+- __Task 7:__ Apply k-means using Scikit-Learn to perform customer segmentation 
+- __Task 8:__ Apply Principal Component Analysis (PCA) technique to perform dimensionality reduction and data visualization 
